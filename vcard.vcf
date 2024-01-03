@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Marko Banušić
+N;CHARSET=UTF-8:Banušić;Marko;;;
+GENDER:M
+BDAY:19860213
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:mbanusic@gmail.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:marko@nezn.am
+TEL;TYPE=CELL:+385915268779
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/mbanusic
+X-SOCIALPROFILE;TYPE=twitter:https://twitter.com/mbanusic
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/mbanusic/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/mbanusic/
+REV:2024-01-03T09:35:21.949Z
+END:VCARD
